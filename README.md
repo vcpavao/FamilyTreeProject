@@ -1,4 +1,4 @@
-# FamilyTreeProject
+# Description
 Project that allows a user to create a family tree and ask questions about the relationships between its members
 
 # Requirements
